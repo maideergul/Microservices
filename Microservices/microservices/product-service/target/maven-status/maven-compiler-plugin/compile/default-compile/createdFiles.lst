@@ -1,6 +1,0 @@
-com/works/productservice/service/ProductService.class
-com/works/productservice/repository/ProductRepository.class
-com/works/productservice/entity/Product.class
-com/works/productservice/controller/ProductController.class
-com/works/productservice/ProductServiceApplication.class
-com/works/productservice/configuration/ProductConfiguration.class
